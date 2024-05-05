@@ -1,5 +1,5 @@
 ![MasterHead](https://images7.alphacoders.com/509/509782.jpg)
-<h1 align="center">Hi welcome my git 👋👋👋, I'm Trinh Cong Nguyen</h1>
+<h1 align="center">Hi welcome my git 👋👋👋, I'm Doan Viet Quang</h1>
 <h3 align="center">I want to become fullstack developer and devops</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oriz1303&label=Profile%20views&color=0e75b6&style=flat" alt="oriz1303" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Spring Boot, Angular.**
 
-- 📫 How to reach me **oriz1303@gmail.com**
+- 📫 How to reach me **doanquang3645@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
